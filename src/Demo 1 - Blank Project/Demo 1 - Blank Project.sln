@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 1 - Blank Project", "Demo 1 - Blank Project.csproj", "{FDD2C259-F682-410F-A500-9BB8B4618569}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo 1 - Blank Project", "Demo 1 - Blank Project\Demo 1 - Blank Project.csproj", "{FDD2C259-F682-410F-A500-9BB8B4618569}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
