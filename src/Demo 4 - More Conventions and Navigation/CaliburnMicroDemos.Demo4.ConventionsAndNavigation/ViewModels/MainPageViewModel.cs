@@ -1,6 +1,7 @@
-using Caliburn.Micro;
 namespace CaliburnMicroDemos.Demo4.ConventionsAndNavigation.ViewModels
 {
+    using Caliburn.Micro;
+
     public class MainPageViewModel : PropertyChangedBase
     {
         private readonly INavigationService navigationService;
@@ -36,6 +37,12 @@ namespace CaliburnMicroDemos.Demo4.ConventionsAndNavigation.ViewModels
         public void GoToSettingsView()
         {
             this.navigationService.UriFor<SettingsViewModel>()
+                .Navigate();
+        }
+
+        public void GoToProjectsView()
+        {
+            this.navigationService.UriFor<ProjectsViewModel>()
                 .Navigate();
         }
     }

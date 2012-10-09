@@ -18,6 +18,7 @@ namespace CaliburnMicroDemos.Demo4.ConventionsAndNavigation.Framework
             container.RegisterPhoneServices();
             container.PerRequest<MainPageViewModel>();
             container.PerRequest<SettingsViewModel>();
+            container.PerRequest<ProjectsViewModel>();
 
             AddCustomConventions();
         }
