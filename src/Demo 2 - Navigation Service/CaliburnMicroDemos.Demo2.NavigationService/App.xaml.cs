@@ -1,7 +1,7 @@
-﻿using System.Windows;
-
-namespace CaliburnMicroDemos.Demo2.NavigationService
+﻿namespace CaliburnMicroDemos.Demo2.NavigationService
 {
+    using System.Windows;
+
     public partial class App : Application
     {
         public App()
