@@ -1,6 +1,7 @@
-using Caliburn.Micro;
 namespace CaliburnMicroDemos.Demo3.GuardingActions.ViewModels
 {
+    using Caliburn.Micro;
+
     public class MainPageViewModel
     {
         private readonly INavigationService navigationService;

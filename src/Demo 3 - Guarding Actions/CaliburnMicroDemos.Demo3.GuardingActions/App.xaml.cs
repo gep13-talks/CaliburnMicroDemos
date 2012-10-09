@@ -1,7 +1,7 @@
-﻿using System.Windows;
-
-namespace CaliburnMicroDemos.Demo3.GuardingActions
+﻿namespace CaliburnMicroDemos.Demo3.GuardingActions
 {
+    using System.Windows;
+
     public partial class App : Application
     {
         public App()

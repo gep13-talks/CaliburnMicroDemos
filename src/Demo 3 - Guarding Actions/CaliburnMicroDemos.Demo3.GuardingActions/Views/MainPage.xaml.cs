@@ -1,7 +1,7 @@
-﻿using Microsoft.Phone.Controls;
-
-namespace CaliburnMicroDemos.Demo3.GuardingActions.Views
+﻿namespace CaliburnMicroDemos.Demo3.GuardingActions.Views
 {
+    using Microsoft.Phone.Controls;
+
     public partial class MainPage : PhoneApplicationPage
     {
         // Constructor

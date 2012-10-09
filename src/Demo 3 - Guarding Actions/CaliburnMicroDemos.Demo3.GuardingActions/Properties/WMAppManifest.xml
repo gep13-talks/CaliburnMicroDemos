@@ -1,7 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.1">
-  <App xmlns="" ProductID="{785a78e9-1444-46b2-acc2-3e0eb289f2bb}" Title="CaliburnMicroDemos.Demo3.GuardingActions" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="CaliburnMicroDemos.Demo3.GuardingActions author" Description="Sample description" Publisher="CaliburnMicroDemos.Demo3.GuardingActions">
+  <App xmlns="" 
+       ProductID="{785a78e9-1444-46b2-acc2-3e0eb289f2bb}" 
+       Title="CaliburnMicroDemos.Demo3.GuardingActions"
+       RuntimeType="Silverlight" 
+       Version="1.0.0.0"
+       Genre="apps.normal"  
+       Author="gep13" 
+       Description="Caliburn.Micro Demo Application 3" 
+       Publisher="gep13">
     <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_GAMERSERVICES"/>
