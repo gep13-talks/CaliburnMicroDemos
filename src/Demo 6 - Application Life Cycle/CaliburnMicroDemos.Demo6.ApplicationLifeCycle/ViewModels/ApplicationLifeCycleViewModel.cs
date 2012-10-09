@@ -1,7 +1,6 @@
 ﻿namespace CaliburnMicroDemos.Demo6.ApplicationLifeCycle.ViewModels
 {
     using Caliburn.Micro;
-
     using CaliburnMicroDemos.Demo6.ApplicationLifeCycle.Model;
 
     public class ApplicationLifeCycleViewModel : Screen
