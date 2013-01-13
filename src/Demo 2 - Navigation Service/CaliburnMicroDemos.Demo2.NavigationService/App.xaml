@@ -1,0 +1,13 @@
+﻿<Application
+    x:Class="CaliburnMicroDemos.Demo2.NavigationService.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:navigationService="clr-namespace:CaliburnMicroDemos.Demo2.NavigationService"
+    xmlns:framework="clr-namespace:CaliburnMicroDemos.Demo2.NavigationService.Framework">
+
+    <!--Application Resources-->
+    <Application.Resources>
+        <navigationService:LocalizedStrings xmlns:local="clr-namespace:CaliburnMicroDemos.Demo2.NavigationService" x:Key="LocalizedStrings"/>
+        <framework:AppBootstrapper x:Key="bootstapper" />
+    </Application.Resources>
+</Application>
