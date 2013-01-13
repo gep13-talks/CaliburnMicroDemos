@@ -28,7 +28,7 @@
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="The is teh Settings View" VerticalAlignment="Top" Margin="40,34,0,0"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="The is the Settings View" VerticalAlignment="Top" Margin="40,34,0,0"/>
 
         </Grid>
     </Grid>
